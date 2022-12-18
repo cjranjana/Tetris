@@ -1,0 +1,31 @@
+.container{
+    margin: auto;
+    
+    display:flex;
+}
+
+.grid{
+    padding-top: 10px;
+    width:200px;
+    height:400px;
+    display: flex;
+    flex-wrap:wrap;
+    background-color: green;
+}
+.grid div{
+    height:20px;
+    width:20px;
+}
+.tetris{
+    background-color: yellow;
+
+}
+h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+button{
+    background: darkred;
+   
+}
